@@ -1,8 +1,8 @@
-#Web Server en NodeJS
+# Web Server en NodeJS
 
 Realicé un servidor web en donde se sirve una web estática.
 
-##¿Cómo usarlo?
+## ¿Cómo usarlo?
 
 1. Debes clonar el repositorio `git clone https://github.com/cTapiaDev/node_web_server`
 2. Abrir en tu editor de código y ejecutar `npm install` en la consola.
